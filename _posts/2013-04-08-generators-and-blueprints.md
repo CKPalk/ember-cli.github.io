@@ -97,6 +97,7 @@ The built-in blueprints that support pods structure are:
  - template
  - transform
  - view
+ - service
 
 Blueprints that don't support pods structure will simply ignore the `--pod`
 option and use the default structure.
